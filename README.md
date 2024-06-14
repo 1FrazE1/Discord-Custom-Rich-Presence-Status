@@ -471,7 +471,7 @@ Python
 
 
 
-Open CMD and type:
+Open CMD running as Admin and type:
 
 
     pip install pypresence
