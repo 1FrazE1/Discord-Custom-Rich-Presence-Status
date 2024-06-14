@@ -88,7 +88,11 @@ Application on Discord Developer Portal,
 ㅤ
 
 
+Python
 
+Download:
+
+https://www.python.org/downloads/
 
 
 
